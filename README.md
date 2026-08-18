@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=700&size=34&duration=2500&pause=1500&color=1D3557&center=true&vCenter=true&width=500&height=55&lines=Your+Name;&repeat=false" alt="Anna Malaschenko" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=700&size=34&duration=2500&pause=1500&color=1D3557&center=true&vCenter=true&width=500&height=55&lines=Anna+Malaschenko;&repeat=false" alt="Anna Malaschenko" />
 </div>
 
 <p align="center">
