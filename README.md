@@ -1,25 +1,9 @@
-## Hi there 👋
-
-<!--
-**AnnaMalaschenko/AnnaMalaschenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=700&size=34&duration=2500&pause=1500&color=1D3557&center=true&vCenter=true&width=500&height=55&lines=Anna+Malaschenko;&repeat=false" alt="Anna Malaschenko" />
 </div>
 
 <p align="center">
-  <a href="[https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/anmalasch/)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/anmalasch/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"></a>
   <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-B91C1C?style=flat-square&logo=gmail&logoColor=white"></a>
 </p>
 
@@ -29,6 +13,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white">
   <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white">
   <img src="https://img.shields.io/badge/Google_Sheets-34A853?style=flat-square&logo=googlesheets&logoColor=white">
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white">
 </p>
 
 <br>
@@ -45,12 +30,12 @@ A results-driven Data Analyst passionate about turning raw, real-world data into
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername" alt="GitHub Streak" height="165">
+  <img src="https://github-stats-extended.vercel.app/api?username=yourusername&show_icons=true&theme=default" alt="GitHub Stats" height="165">
+  <img src="https://streak-stats.demolab.com/?user=yourusername" alt="GitHub Streak" height="165">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact" alt="Top Languages">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=yourusername&layout=compact" alt="Top Languages">
 </p>
 
 <br>
