@@ -19,9 +19,9 @@
 
 A results-driven Data Analyst passionate about turning raw, real-world data into clear, actionable insights — from cleaning and exploring datasets to building models and communicating findings that stakeholders can actually use.
 
-- Domain experience across **Real Estate**, **Retail**, **Ecommerce**, and **Administrative** sectors, applying analytics to real business problems.
+- Domain experience across **Real Estate**, **Retail**, **Ecommerce**, and **Administrative** roles, applying analytics to real business problems.
 - Hands-on experience working with **Financial**, **Ecommerce**, **Operations**, **Health Tracking**, and **Environmental** data.
-- Core expertise in predictive modeling with **Random Forest** and **Linear Regression**, alongside statistical analysis methods including **Univariate**, **Bivariate**, and **Multivariate Analysis**.
+- Expertise in predictive modeling with **Random Forest** and **Linear Regression**, alongside statistical analysis methods including **Univariate**, **Bivariate**, and **Multivariate Analysis**.
 - Skilled in **Time Trend Analysis** for identifying patterns and forecasting change over time.
 
 <br>
