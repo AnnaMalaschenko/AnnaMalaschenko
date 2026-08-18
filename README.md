@@ -4,8 +4,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/anmalasch/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-B91C1C?style=flat-square&logo=gmail&logoColor=white"></a>
-</p>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
@@ -27,17 +26,3 @@ A results-driven Data Analyst passionate about turning raw, real-world data into
 
 <br>
 
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=yourusername&show_icons=true&theme=default" alt="GitHub Stats" height="165">
-  <img src="https://streak-stats.demolab.com/?user=yourusername" alt="GitHub Streak" height="165">
-</p>
-
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=yourusername&layout=compact" alt="Top Languages">
-</p>
-
-<br>
-
-<p align="center"><i>Thanks for stopping by — let's connect!</i></p>
