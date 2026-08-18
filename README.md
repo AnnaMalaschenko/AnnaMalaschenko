@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=700&size=34&duration=2500&pause=1500&color=1D3557&center=true&vCenter=true&width=500&height=55&lines=Your+Name;&repeat=false" alt="Your Name" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=700&size=34&duration=2500&pause=1500&color=1D3557&center=true&vCenter=true&width=500&height=55&lines=Your+Name;&repeat=false" alt="Anna Malaschenko" />
 </div>
 
 <p align="center">
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"></a>
+  <a href="[https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/anmalasch/)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"></a>
   <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-B91C1C?style=flat-square&logo=gmail&logoColor=white"></a>
 </p>
 
